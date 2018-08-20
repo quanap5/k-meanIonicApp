@@ -1,0 +1,7 @@
+{
+  "name": "ionic-firebase-cloud-function",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
